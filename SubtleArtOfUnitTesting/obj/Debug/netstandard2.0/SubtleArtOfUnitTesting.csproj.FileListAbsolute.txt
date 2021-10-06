@@ -1,0 +1,9 @@
+C:\Users\avanveelen\OneDrive - VI Company Financials B.V\Documents\VI Company\Masterclass\SubtleArtOfUnitTesting\SubtleArtOfUnitTesting\bin\Debug\netstandard2.0\SubtleArtOfUnitTesting.deps.json
+C:\Users\avanveelen\OneDrive - VI Company Financials B.V\Documents\VI Company\Masterclass\SubtleArtOfUnitTesting\SubtleArtOfUnitTesting\bin\Debug\netstandard2.0\SubtleArtOfUnitTesting.dll
+C:\Users\avanveelen\OneDrive - VI Company Financials B.V\Documents\VI Company\Masterclass\SubtleArtOfUnitTesting\SubtleArtOfUnitTesting\bin\Debug\netstandard2.0\SubtleArtOfUnitTesting.pdb
+C:\Users\avanveelen\OneDrive - VI Company Financials B.V\Documents\VI Company\Masterclass\SubtleArtOfUnitTesting\SubtleArtOfUnitTesting\obj\Debug\netstandard2.0\SubtleArtOfUnitTesting.csprojAssemblyReference.cache
+C:\Users\avanveelen\OneDrive - VI Company Financials B.V\Documents\VI Company\Masterclass\SubtleArtOfUnitTesting\SubtleArtOfUnitTesting\obj\Debug\netstandard2.0\SubtleArtOfUnitTesting.AssemblyInfoInputs.cache
+C:\Users\avanveelen\OneDrive - VI Company Financials B.V\Documents\VI Company\Masterclass\SubtleArtOfUnitTesting\SubtleArtOfUnitTesting\obj\Debug\netstandard2.0\SubtleArtOfUnitTesting.AssemblyInfo.cs
+C:\Users\avanveelen\OneDrive - VI Company Financials B.V\Documents\VI Company\Masterclass\SubtleArtOfUnitTesting\SubtleArtOfUnitTesting\obj\Debug\netstandard2.0\SubtleArtOfUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\avanveelen\OneDrive - VI Company Financials B.V\Documents\VI Company\Masterclass\SubtleArtOfUnitTesting\SubtleArtOfUnitTesting\obj\Debug\netstandard2.0\SubtleArtOfUnitTesting.dll
+C:\Users\avanveelen\OneDrive - VI Company Financials B.V\Documents\VI Company\Masterclass\SubtleArtOfUnitTesting\SubtleArtOfUnitTesting\obj\Debug\netstandard2.0\SubtleArtOfUnitTesting.pdb

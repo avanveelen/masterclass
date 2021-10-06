@@ -1,0 +1,12 @@
+C:\Users\avanveelen\OneDrive - VI Company Financials B.V\Documents\VI Company\Masterclass\SubtleArtOfUnitTesting\TestHelpers\obj\Debug\netstandard2.0\TestHelpers.csprojAssemblyReference.cache
+C:\Users\avanveelen\OneDrive - VI Company Financials B.V\Documents\VI Company\Masterclass\SubtleArtOfUnitTesting\TestHelpers\obj\Debug\netstandard2.0\TestHelpers.AssemblyInfoInputs.cache
+C:\Users\avanveelen\OneDrive - VI Company Financials B.V\Documents\VI Company\Masterclass\SubtleArtOfUnitTesting\TestHelpers\obj\Debug\netstandard2.0\TestHelpers.AssemblyInfo.cs
+C:\Users\avanveelen\OneDrive - VI Company Financials B.V\Documents\VI Company\Masterclass\SubtleArtOfUnitTesting\TestHelpers\obj\Debug\netstandard2.0\TestHelpers.csproj.CoreCompileInputs.cache
+C:\Users\avanveelen\OneDrive - VI Company Financials B.V\Documents\VI Company\Masterclass\SubtleArtOfUnitTesting\TestHelpers\bin\Debug\netstandard2.0\TestHelpers.deps.json
+C:\Users\avanveelen\OneDrive - VI Company Financials B.V\Documents\VI Company\Masterclass\SubtleArtOfUnitTesting\TestHelpers\bin\Debug\netstandard2.0\TestHelpers.dll
+C:\Users\avanveelen\OneDrive - VI Company Financials B.V\Documents\VI Company\Masterclass\SubtleArtOfUnitTesting\TestHelpers\bin\Debug\netstandard2.0\TestHelpers.pdb
+C:\Users\avanveelen\OneDrive - VI Company Financials B.V\Documents\VI Company\Masterclass\SubtleArtOfUnitTesting\TestHelpers\bin\Debug\netstandard2.0\SubtleArtOfUnitTesting.dll
+C:\Users\avanveelen\OneDrive - VI Company Financials B.V\Documents\VI Company\Masterclass\SubtleArtOfUnitTesting\TestHelpers\bin\Debug\netstandard2.0\SubtleArtOfUnitTesting.pdb
+C:\Users\avanveelen\OneDrive - VI Company Financials B.V\Documents\VI Company\Masterclass\SubtleArtOfUnitTesting\TestHelpers\obj\Debug\netstandard2.0\TestHelpers.csproj.CopyComplete
+C:\Users\avanveelen\OneDrive - VI Company Financials B.V\Documents\VI Company\Masterclass\SubtleArtOfUnitTesting\TestHelpers\obj\Debug\netstandard2.0\TestHelpers.dll
+C:\Users\avanveelen\OneDrive - VI Company Financials B.V\Documents\VI Company\Masterclass\SubtleArtOfUnitTesting\TestHelpers\obj\Debug\netstandard2.0\TestHelpers.pdb

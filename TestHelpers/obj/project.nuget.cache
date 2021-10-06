@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1a7J7JcjsXU03NZ8jxjWXCzSfpggz8FhHu1HIUJD0PRM93NR0UMM33U9wTXuE4cGvfY06HWYNfFFQ9jDsyZtOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\avanveelen\\OneDrive - VI Company Financials B.V\\Documents\\VI Company\\Masterclass\\SubtleArtOfUnitTesting\\TestHelpers\\TestHelpers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\avanveelen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\avanveelen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

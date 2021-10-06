@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5f2c27f5_002Df6e3_002D47de_002Da32e_002D8486136042bc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="IsValid_GivenEmailAddressIsEmpty_ReturnsFalse #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6B020BBA-26FE-4B06-8FE1-4E14124C46D6::.NETCoreApp,Version=v3.1::SubtleArtOfUnitTestingTests.EasyToRead.Structure.IsValid_GivenEmailAddressIsEmpty_ReturnsFalse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6B020BBA-26FE-4B06-8FE1-4E14124C46D6::.NETCoreApp,Version=v3.1::SubtleArtOfUnitTestingTests.EasyToRead.MinimalPassing.IsActive_MandateStartDateIsInTheFuture_ReturnsFalse_4&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6B020BBA-26FE-4B06-8FE1-4E14124C46D6::.NETCoreApp,Version=v3.1::SubtleArtOfUnitTestingTests.EasyToWrite.MandateApplicationServiceTests.RemoveMandate_MandateIsActive_ThrowsException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47265186-2B1F-47E3-8378-D070452C0209::.NETCoreApp,Version=v3.1::SubtleArtOfUnitTestingNUnitTests.EasyToRun.MandateApplicationServiceTests.RemoveMandate_0MandateIsInActive_RemovesMandate&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47265186-2B1F-47E3-8378-D070452C0209::.NETCoreApp,Version=v3.1::SubtleArtOfUnitTestingNUnitTests.EasyToRun.MandateApplicationServiceTests.RemoveMandate_1MandateIsActive_ThrowsException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47265186-2B1F-47E3-8378-D070452C0209::.NETCoreApp,Version=v3.1::SubtleArtOfUnitTestingNUnitTests.EasyToRun.MandateApplicationServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d9db33ef_002D2b7f_002D4f45_002D8128_002D0bc37b841416/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IsValid_GivenEmailAddressIsEmpty_ReturnsFalse" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6B020BBA-26FE-4B06-8FE1-4E14124C46D6::.NETCoreApp,Version=v3.1::SubtleArtOfUnitTestingTests.EasyToRead.Structure.IsValid_GivenEmailAddressIsEmpty_ReturnsFalse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6B020BBA-26FE-4B06-8FE1-4E14124C46D6::.NETCoreApp,Version=v3.1::SubtleArtOfUnitTestingTests.EasyToRead.MinimalPassing.IsActive_MandateStartDateIsInTheFuture_ReturnsFalse_4&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6B020BBA-26FE-4B06-8FE1-4E14124C46D6::.NETCoreApp,Version=v3.1::SubtleArtOfUnitTestingTests.EasyToWrite.MandateApplicationServiceTests.RemoveMandate_MandateIsActive_ThrowsException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6B020BBA-26FE-4B06-8FE1-4E14124C46D6::.NETCoreApp,Version=v3.1::SubtleArtOfUnitTestingTests.EasyToWrite.MandateApplicationServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47265186-2B1F-47E3-8378-D070452C0209::.NETCoreApp,Version=v3.1::SubtleArtOfUnitTestingNUnitTests.MandateApplicationServiceTests.RemoveMandate_MandateIsActive_ThrowsException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47265186-2B1F-47E3-8378-D070452C0209::.NETCoreApp,Version=v3.1::SubtleArtOfUnitTestingNUnitTests.MandateApplicationServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Rebalancing/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
